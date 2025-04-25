@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.book-now-container {
+    background-color: white;
+    padding: 15px 20px;
+    margin-right: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .book-now-btn {
+    color: #4CAF50;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    transition: color 0.3s ease;
+  }
+  
+  .book-now-btn:hover {
+    color: #388E3C;
+  }
+.img>h2{
+   margin-top: -600px;
+   color: rgb(135, 240, 135);
+   padding: 20px;
+}
+.start{
+    background-color: rgb(252, 248, 248);
+    height: 100%;
+}
+.text{
+    margin-top: 500px;
+    display: flex;
+    justify-content: space-between;
+}
+.text>h1{
+    margin: 10px;
+    font-weight: bold;
+}
+.select {
+    background-color: white;
+    padding: 15px 20px;
+    margin-right: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .select-btn {
+    color: #0d0e0d;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    transition: color 0.3s ease;
+  }
+  
+  .select-btn:hover {
+    color: #fefffe;
+  }
+  .class{
+    margin-top: 100px;
+  }
+.class2{
+  margin-top: 30px;
+}
+.see{
+  margin-top: 30px;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+.main-heading {
+  font-size: 60px;
+  font-weight: 700;
+  color: #0f1222;
+}
+.sub-text {
+  font-size: 18px;
+  color: #6c757d;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+.feature-icon {
+  width: 40px;
+  height: 40px;
+  background-color: white;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 15px;
+}
+.scooter-img {
+  max-width: 100%;
+  height: auto;
+}
